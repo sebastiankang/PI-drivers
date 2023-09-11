@@ -1,0 +1,7 @@
+.landing-container {
+  background-image: url("../../assets/imagenLanding.jpg");
+  background-size: cover; /* Ajusta el tamaño de la imagen de fondo para cubrir todo el contenedor */
+  background-position: center; /* Centra la imagen de fondo */
+  background-repeat: no-repeat; /* Evita la repetición de la imagen de fondo */
+  /* Otros estilos de diseño, como padding, color de texto, etc., pueden agregarse aquí */
+}
